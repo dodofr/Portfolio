@@ -318,7 +318,7 @@ h3 {
 }
 
 .web--snake {
-    background: url(images/thesnake.png), var(--fond-fonce);
+    background: url(Images/thesnake.png), var(--fond-fonce);
     background-position: top;
     background-size: 16em 9em;
     background-repeat: no-repeat;
@@ -326,7 +326,7 @@ h3 {
 }
 
 .web--pick {
-    background: url(images/pike.jpg), var(--fond-fonce);
+    background: url(Images/pike.jpg), var(--fond-fonce);
     background-position: top;
     background-size: 16em 9em;
     background-repeat: no-repeat;
@@ -334,7 +334,7 @@ h3 {
 }
 
 .web--black {
-    background: url(images/cloud.jpg), var(--fond-fonce);
+    background: url(Images/cloud.jpg), var(--fond-fonce);
     background-position: top;
     background-size: 16em 9em;
     background-repeat: no-repeat;
